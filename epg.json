@@ -53010,33 +53010,6 @@
   ],
   "sportdigital.Fussball.de": [
     {
-      "start": "20260623001500 +0000",
-      "stop": "20260623004500 +0000",
-      "title": "Im Rampenlicht – Footballs Greatest Stage",
-      "subtitle": "Franz Beckenbauer",
-      "description": "Große Turniere wie Welt- und Europameisterschaften, aber auch die Champions League oder der UEFA-Cup sind ideale Bühnen, auf denen sich Fußballspieler einen Namen machen, und ihren Marktwert steigern können. (Senderinfo).",
-      "category": "Fußball",
-      "icon": "http://img.tvspielfilm.de/ef/f1/a0/69a72600f8d1137692a0f1ef.jpeg"
-    },
-    {
-      "start": "20260623004500 +0000",
-      "stop": "20260623011500 +0000",
-      "title": "Im Rampenlicht – Footballs Greatest Stage",
-      "subtitle": "Frankreich 1998",
-      "description": "Große Turniere wie Welt- und Europameisterschaften, aber auch die Champions League oder der UEFA-Cup sind ideale Bühnen, auf denen sich Fußballspieler einen Namen machen, und ihren Marktwert steigern können. (Senderinfo).",
-      "category": "Fußball",
-      "icon": "http://img.tvspielfilm.de/ef/f1/a0/69a72600f8d1137692a0f1ef.jpeg"
-    },
-    {
-      "start": "20260623011500 +0000",
-      "stop": "20260623014500 +0000",
-      "title": "Im Rampenlicht – Footballs Greatest Stage",
-      "subtitle": "Zinedine Zidane",
-      "description": "Große Turniere wie Welt- und Europameisterschaften, aber auch die Champions League oder der UEFA-Cup sind ideale Bühnen, auf denen sich Fußballspieler einen Namen machen, und ihren Marktwert steigern können. (Senderinfo).",
-      "category": "Fußball",
-      "icon": "http://img.tvspielfilm.de/ef/f1/a0/69a72600f8d1137692a0f1ef.jpeg"
-    },
-    {
       "start": "20260623014500 +0000",
       "stop": "20260623034500 +0000",
       "title": "Fußball: Scottish Premiership",
@@ -53629,6 +53602,159 @@
       "description": "",
       "category": "Fußball",
       "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260626041500 +0000",
+      "stop": "20260626044500 +0000",
+      "title": "scooore Schottland! Alle Tore",
+      "subtitle": "Highlights Scottish Premiership (38. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/0d/f3/a0/69a72603f8d1137692a0f30d.jpeg"
+    },
+    {
+      "start": "20260626044500 +0000",
+      "stop": "20260626051500 +0000",
+      "title": "scooore Niederlande! Alle Tore",
+      "subtitle": "Highlights Eredivisie (34. Spieltag)",
+      "description": "Vorhang auf für das Oberhaus des niederländischen Fußballs: Die Eredivisie hat auch hierzulande viele Fans. Deshalb zeigt sportdigital die Highlights der aktuellen Spieltage als Erstausstrahlung. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/77/02/b0/69aec3fff8d1137692b00277.jpeg"
+    },
+    {
+      "start": "20260626051500 +0000",
+      "stop": "20260626073500 +0000",
+      "title": "Fußball: AFC Champions League Two",
+      "subtitle": "Al-Nassr (SAR) – Gamba Osaka (J) (Finale)",
+      "description": "Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260626073500 +0000",
+      "stop": "20260626080000 +0000",
+      "title": "scooore Portugal! Alle Tore",
+      "subtitle": "Highlights Primeira Liga (34. Spieltag)",
+      "description": "Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/01/f3/a0/69a72603f8d1137692a0f301.jpeg"
+    },
+    {
+      "start": "20260626080000 +0000",
+      "stop": "20260626083000 +0000",
+      "title": "The Evolution of Sport",
+      "subtitle": "Die Entwicklung der TV-Uebertragung",
+      "description": "",
+      "category": "Dokumentationsreihe",
+      "icon": "http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"
+    },
+    {
+      "start": "20260626083000 +0000",
+      "stop": "20260626090000 +0000",
+      "title": "The Evolution of Sport",
+      "subtitle": "Die Entwicklung der Aussenverteidiger",
+      "description": "",
+      "category": "Dokumentationsreihe",
+      "icon": "http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"
+    },
+    {
+      "start": "20260626090000 +0000",
+      "stop": "20260626093000 +0000",
+      "title": "The Evolution of Sport",
+      "subtitle": "Die Entwicklung der Torhueter",
+      "description": "",
+      "category": "Dokumentationsreihe",
+      "icon": "http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg"
+    },
+    {
+      "start": "20260626093000 +0000",
+      "stop": "20260626100000 +0000",
+      "title": "Im Rampenlicht – Footballs Greatest Stage",
+      "subtitle": "Spanische Uebermacht",
+      "description": "Große Turniere wie Welt- und Europameisterschaften, aber auch die Champions League oder der UEFA-Cup sind ideale Bühnen, auf denen sich Fußballspieler einen Namen machen, und ihren Marktwert steigern können. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260626100000 +0000",
+      "stop": "20260626121500 +0000",
+      "title": "Fußball: Saudi Pro League",
+      "subtitle": "Al-Nassr – Damac (34. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260626121500 +0000",
+      "stop": "20260626143000 +0000",
+      "title": "AZ Alkmaar – NEC Nijmegen",
+      "subtitle": "KNVB Beker (Finale)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/86/bd/66/6a22be9d8e74f1576c66bd86.jpeg"
+    },
+    {
+      "start": "20260626143000 +0000",
+      "stop": "20260626163000 +0000",
+      "title": "Primeira Liga",
+      "subtitle": "Sporting Lissabon – Benfica Lissabon (30. Spieltag)",
+      "description": "Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/32/f3/a8/69caa8ef542c4c3bbea8f332.jpeg"
+    },
+    {
+      "start": "20260626163000 +0000",
+      "stop": "20260626170000 +0000",
+      "title": "The Evolution of Sport",
+      "subtitle": "Die Entwicklung der Champions League",
+      "description": "",
+      "category": "Dokumentationsreihe",
+      "icon": "http://img.tvspielfilm.de/95/18/b0/69cd392d542c4c3bbeb01895.jpeg"
+    },
+    {
+      "start": "20260626170000 +0000",
+      "stop": "20260626173000 +0000",
+      "title": "The Evolution of Sport",
+      "subtitle": "Das Machtgefuege in Manchester",
+      "description": "",
+      "category": "Dokumentationsreihe",
+      "icon": "http://img.tvspielfilm.de/95/18/b0/69cd392d542c4c3bbeb01895.jpeg"
+    },
+    {
+      "start": "20260626173000 +0000",
+      "stop": "20260626180000 +0000",
+      "title": "The Evolution of Sport",
+      "subtitle": "Die Entwicklung zentraler Mittelfeldspieler",
+      "description": "",
+      "category": "Dokumentationsreihe",
+      "icon": "http://img.tvspielfilm.de/95/18/b0/69cd392d542c4c3bbeb01895.jpeg"
+    },
+    {
+      "start": "20260626180000 +0000",
+      "stop": "20260626201500 +0000",
+      "title": "Fußball: U17-Europameisterschaft der Frauen",
+      "subtitle": "Frankreich U17 F – Norwegen U17 F (Halbfinale)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260626201500 +0000",
+      "stop": "20260626223000 +0000",
+      "title": "Fußball: U17-Europameisterschaft der Frauen",
+      "subtitle": "Deutschland U17 F – Spanien U17 F (Halbfinale)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/50/36/ad/69cc7add542c4c3bbead3650.jpeg"
+    },
+    {
+      "start": "20260626223000 +0000",
+      "stop": "20260627003000 +0000",
+      "title": "Primeira Liga",
+      "subtitle": "Sporting Lissabon – Benfica Lissabon (30. Spieltag)",
+      "description": "Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/32/f3/a8/69caa8ef542c4c3bbea8f332.jpeg"
     }
   ],
   "unifi.spotv.my": [
